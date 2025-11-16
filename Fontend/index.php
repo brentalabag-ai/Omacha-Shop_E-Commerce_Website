@@ -372,7 +372,10 @@ if ($query->num_rows > 0) {
 								title="Visit the Reis Omacha Shop Philippines tiktok.">
 								<i style="color: #010101;" class="fa-brands fa-tiktok"></i>
 							</a>
+<<<<<<< HEAD
 							
+=======
+>>>>>>> f022ff3841418a1557d64d14758cf2e05a7f121d
 							
 							
 						</div>

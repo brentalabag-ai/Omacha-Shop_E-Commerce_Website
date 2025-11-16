@@ -284,10 +284,16 @@ if ($result->num_rows > 0) {
 								" class="fa-brands fa-square-instagram"></i>
 							</a>
 							<a class="text-primary px-3" href="social-feed.php"
+<<<<<<< HEAD
 								title="Visit the Reis Omacha Shop Philippines tiktok.">
 								<i style="color: #010101;" class="fa-brands fa-tiktok"></i>
 							</a>
 							
+=======
+								target="_blank" title="Visit the Reis Omacha Shop Philippines tiktok.">
+								<i style="color: #010101;" class="fa-brands fa-tiktok"></i>
+							</a>
+>>>>>>> f022ff3841418a1557d64d14758cf2e05a7f121d
 							
 							
 						</div>
