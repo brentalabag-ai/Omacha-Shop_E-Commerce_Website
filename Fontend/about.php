@@ -394,6 +394,10 @@ if ($result->num_rows > 0) {
 										-webkit-text-fill-color: transparent;
 								" class="fa-brands fa-square-instagram"></i>
 							</a>
+							<a class="text-primary px-3" href="social-feed.php"
+								title="Visit the Reis Omacha Shop Philippines tiktok.">
+								<i style="color: #010101;" class="fa-brands fa-tiktok"></i>
+							</a>
 							
 							
 							
